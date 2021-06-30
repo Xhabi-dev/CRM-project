@@ -6,11 +6,16 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.0",
+    "morgan": "^1.10.0",
     "vue": "^3.0.5"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.2.3",
     "@vue/compiler-sfc": "^3.0.5",
+    "nodemon": "^2.0.9",
     "vite": "^2.3.7"
   }
 }
